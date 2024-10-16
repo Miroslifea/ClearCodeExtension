@@ -1,5 +1,5 @@
 # clearcode README
-
+## Avtaev Miroslav M3102
 This is a clearcode extension. This extension found unused functions and variables in C++ files and suggest user to remove it.
 
 
@@ -9,7 +9,7 @@ This extension has no requiremets to use, just write in C++.
 
 ## Known Issues
 
-It's probaly doesn't work whits declaration like `int * name` or `int name[]`. And it's doesn't work with custom type.
+It's probaly doesn't work with declaration like `int * name` or `int name[]`. And it's doesn't work with custom type.
 
 ## Release Notes
 
@@ -17,6 +17,6 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of my extension
+Initial release of my extension.
 
 **Enjoy!**
